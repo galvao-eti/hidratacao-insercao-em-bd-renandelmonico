@@ -1,11 +1,11 @@
 {
-    "name": "renan.delmonico/galvao",
+    "name": "renandelmonico/galvao",
     "description": "Trabalho Pos WebDev Alfa 2017",
     "type": "project",
     "authors": [
         {
             "name": "Renan Delmonico",
-            "email": "renan.delmonico@gazin.com.br"
+            "email": "renandelmonico@gmail.com"
         }
     ],
     "require": {},
